@@ -4,7 +4,7 @@
 
 A landing page for an imaginary, AI-based cooking and delivery service called OMNIFOOD.
 
-## How to access the webstie
+## How to access the website
 
 There are two ways to access the website:
 
